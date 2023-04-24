@@ -1,0 +1,15 @@
+h1 
+{font-size: 50px; background-color: rgb(213, 199, 252);
+border: blueviolet 8px solid;}
+
+body
+{background-color: rgb(253, 241, 255); 
+    background-image: url(jupiter-4k-n5.jpg); 
+    background-repeat: no-repeat; background-size: cover;}
+.moon 
+{color: rgb(255, 0, 149);
+font-size: 15px;}
+
+#texto
+{color: blue;
+font-size: 25px;}
